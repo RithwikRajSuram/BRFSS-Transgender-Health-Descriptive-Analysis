@@ -1,4 +1,10 @@
 # BRFSS Transgender Health Descriptive Analysis
+## 📊 Live Dashboard
+
+[**View the interactive dashboard →**](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#brfss)
+
+---
+
 
 ## Overview
 This project analyzes transgender participants from the 2014 Behavioral Risk Factor Surveillance System (BRFSS). The goal was to clean, recode, and summarize demographic and health-related characteristics using descriptive statistics in R.
